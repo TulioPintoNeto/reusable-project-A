@@ -4,7 +4,7 @@
   <h3 align="center">Reusable Project A</h3>
 
   <p align="center">
-    A package to use Reusable Package
+    A project to use the [Reusable Package](https://github.com/TulioPintoNeto/reusable-package)
   </p>
 </div>
 
